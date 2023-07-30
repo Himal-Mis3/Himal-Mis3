@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Himal-Mis3/Himal-Mis3/blob/main/Banner/My%20project-1.png)]
+![MasterHead](https://github.com/Himal-Mis3/Himal-Mis3/blob/main/Banner/My%20project-1%20dark%20background.png)
 
 <h1 align="center">Hi 👋, I'm Himal Mistry</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
