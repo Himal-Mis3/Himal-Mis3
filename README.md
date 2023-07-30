@@ -1,17 +1,28 @@
 ![MasterHead](https://github.com/Himal-Mis3/Himal-Mis3/blob/main/Banner/My%20project-1%20dark%20background%20-%20Copy.png)
 
-<h1 align="center">Hi 👋, I'm Himal Mistry</h1>
+<h1 align="center">"Hey there! 👋 My name is Himal, and I'm thrilled that you have come across this page."</h1>
 <h3 align="center">A passionate full stack developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himal-mis3&label=Profile%20views&color=0e75b6&style=flat" alt="himal-mis3" /> </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58F725&center=true&vCenter=true&width=435&lines=Information+Security;Artificial+Intelligence;Machine+Learning;Biometrics;Data+Communications;Explore;Debugging;Breaking;Testing;Deploying;Waiting...;Repeat+%F0%9F%99%83" alt="Typing SVG" /></a>
+</p>
+
 <!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himal-mis3" alt="himal-mis3" /></a> </p> -->
+# 💫About Me :
 
-- 🔭 I’m currently working on **my honours project**
+- 🎓 BSc in Information Technology in Computer Science and Informatics
+- 🔭 Current project: I’m currently working on **my honours project**
+- 🌱 Current language: I’m currently learning **Machine learning**
+- 📚 Current studies: Hons in Information Technology
+- 💻 Software Engineer || Full Stack Dev :).
+- 🤝 I’m willing to join projects that.
+- ⚡ Fun fact: I am interested in developing games and playing recent and old games in my free time.
 
-- 🌱 I’m currently learning **Machine learning**
+<!--- ![image](https://github.com/Himal-Mis3/Himal-Mis3/assets/52780686/0cf66fa1-831d-46af-bac8-b34a4532023d) -->
 
-<h3 align="left">Connect with me:</h3>
+# <img src="https://github.com/Himal-Mis3/Himal-Mis3/assets/52780686/0cf66fa1-831d-46af-bac8-b34a4532023d" alt="Image" height="30" width="30"> <b height="50" weight=50>Connect with me:<b/>
 <p align="left">
 <a href="https://linkedin.com/in/himalmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himalmistry" height="30" width="40" /></a>
 <a href="https://discord.gg/4283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4283" height="30" width="40" /></a>
