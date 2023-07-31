@@ -51,7 +51,7 @@ Krafting with Kids is a fully developed children's e-commerce website and winner
       
 Video walkthrough: https://www.youtube.com/watch?v=7_U75p4kjfw ![Youtube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-Logos and web page designs: [/GreenPantry](/GreenPantry)
+<!--- Logos and web page designs: [/GreenPantry](/GreenPantry) -->
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himal-mis3&show_icons=true&locale=en&layout=compact" alt="himal-mis3" /></p>
 
